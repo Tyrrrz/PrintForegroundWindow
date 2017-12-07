@@ -38,5 +38,15 @@ namespace PrintForegroundWindow
                 });
             NativeMethods.SetWinEventHook(0x0003, foregroundWindowChangedHandler);
         }
+
+        private void ClearButton_Click(object sender, EventArgs e)
+        {
+            OutputTextBox.Clear();
+        }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
