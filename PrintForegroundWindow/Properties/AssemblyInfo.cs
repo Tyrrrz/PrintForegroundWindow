@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PrintForegroundWindow")]
-[assembly: AssemblyCopyright("Copyright © 2017-2018 Alexey Golub")]
+[assembly: AssemblyCopyright("Copyright © Alexey Golub")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
